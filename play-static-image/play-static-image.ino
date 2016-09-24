@@ -14,4 +14,13 @@ void setup() {
 
 void loop() {
     // display image
+    // for each layer
+    for (byte i = 0; i < 8; i++){
+
+      // load bytes into the shift registers
+
+      // change layer
+      
+      // output data to led cube
+   } 
 }
