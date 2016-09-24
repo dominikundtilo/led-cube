@@ -17,7 +17,14 @@ void loop() {
     // for each layer
     for (byte i = 0; i < 8; i++){
     
-        // load bytes into the shift registers
+        // load 8 bit into each shift register
+        for (byte i = 0; i < 8; i++){
+            
+            // output bits
+
+            // store in shift registers
+            
+        }
 
         // change layer
       
