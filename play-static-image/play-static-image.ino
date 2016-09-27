@@ -18,7 +18,7 @@ void loop() {
     for (byte i = 0; i < 8; i++){
     
         // load 8 bit into each shift register
-        for (byte i = 0; i < 8; i++){
+        for (byte i2 = 0; i2 < 8; i2++){
             
             // output bits
 
